@@ -8,6 +8,10 @@
 
 - CarryingStatus
   - 運んでいる台車のタイプ、台車によってどこが隠されるか
+- CmdVelControllerDebug.msg
+  - Contains debug information for cmd_vel sent to diff_drive_controller
+- CmdVelControllerSideState.msg
+  - Contains cmd_vel information separated for left and right motors
 - Dict
   - キーと値のセット、シーン送信に使用する
 - LightingRequest
