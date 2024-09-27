@@ -20,6 +20,8 @@ add_message_files(
   BoardTemperatures.msg
   CarryingInformation.msg
   CarryingStatus.msg
+  CmdVelControllerDebug.msg
+  CmdVelControllerSideState.msg
   ComeInfo.msg
   ConfigDetail.msg
   DeviceStatus.msg
