@@ -25,6 +25,7 @@ int8 MODE_INITIALIZE=-1
 int8 MODE_STOP=0
 int8 MODE_POSITION=1
 int8 MODE_LOCATION=2
+int8 MODE_ENCODER=3
 
 int8 IS_CONNECT_AUTO=0
 int8 IS_CONNECT_CONNECT=1
@@ -34,4 +35,4 @@ std_msgs/Header header
 uint8 actuator_num
 int8 mode
 int8 is_connect
-int8[] value
+int32[] value
