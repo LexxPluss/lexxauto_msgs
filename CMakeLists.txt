@@ -28,8 +28,6 @@ add_message_files(
   Dict.msg
   DiffDriveEffortControllerDebug.msg
   DiffDriveEffortControllerSideState.msg
-  CmdVelControllerDebug.msg
-  CmdVelControllerSideState.msg
   EmergencyStopRequest.msg
   ErrorCodes.msg
   Errors.msg
