@@ -29,3 +29,5 @@ Mode[] modes
 uint32 scenario_id
 string task_uuid
 string status
+# Only populated if status is 'NG'
+string reason_for_ng
