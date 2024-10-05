@@ -62,8 +62,6 @@
   - 駐車場などのスペースの状態問い合わせ
 - GoButton
   - 作業員がGo(次行ってよし)を要求する
-- LoadEstimate
-  - 荷重推定モードの要求
 - MakeOrder
   - AMR/AGVの指示組み合わせ作動要求
 - ReloadMap
