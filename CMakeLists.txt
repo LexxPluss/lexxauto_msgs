@@ -83,7 +83,6 @@ add_service_files(
   InitLinearActuator.srv
   IsValidAGVScene.srv
   LinearActuatorLocation.srv
-  LoadEstimate.srv
   MakeObstacle.srv
   MakeOrder.srv
   ReloadMap.srv
