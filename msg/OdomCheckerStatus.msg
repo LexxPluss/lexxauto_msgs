@@ -69,6 +69,8 @@ bool has_large_right_wheel_acc
 bool has_large_wheel_resistance
 bool has_wheel_stuck
 
+bool has_motor_driver_error
+
 # for filtering values
 sensor_msgs/Imu imu_raw
 sensor_msgs/Imu imu_filtered
